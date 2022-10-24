@@ -1,0 +1,247 @@
+body{
+    margin: 0%;
+    overflow-x:hidden;
+}
+nav{
+    background-color:whitesmoke;
+    height: 40px;
+    margin-top: 5px;
+    position: relative;
+}
+.nav1 img {
+    width: 50px;;
+    left: 54px;
+    position:absolute;
+
+}
+.nav2 img{
+    width: 81px;
+    position:absolute;
+    left: 120px;
+    bottom: 10px;
+}
+.navA{
+    align-items: center;
+    position: relative;
+    height: 59px;
+    margin-left: 20px;
+    margin-right: 50px;
+    display:flex;
+    font-size: medium;
+    justify-content:space-between;
+}
+.navA1 img {
+height: 53px;
+position:absolute;
+left: 26px;
+top: 2px;    
+}
+.navA5 input{
+    width: 23rem;
+    height: 38px;
+    position:absolute;
+    left:46rem;
+    top: 8px;
+
+
+}
+.navA6{
+    position:absolute;
+    left:67rem;
+    top: 22px;
+
+}
+.navA button{
+    width:5rem;
+    height: 2rem;
+    background-color: black;
+    color: white;
+
+}
+.navA7{
+    position:absolute;
+    left: 72.5rem;
+    top:22px;
+}
+.navA2{
+    position:absolute;
+    left:7rem;
+}
+.navA3{
+    position: absolute;
+    left: 14rem;
+
+}
+.navA4{
+    position:absolute;
+    left: 18rem;
+}
+.a img{
+    width: 93rem;
+}
+.a h2{
+    width: 20px;
+    position: relative;
+}
+.a h1{
+    position:absolute;
+    top: 25rem;
+    left: 13rem;
+    color:white;
+    font-size:4rem;
+}
+hr{
+    font-weight: 5rem;
+}
+.url{
+    height: 5rem;
+}
+.hi{
+    font-size: 23px;
+    margin-left: 20px;
+}
+.hi hr{
+margin-left: -20px;
+}
+.hi h1{
+    margin-bottom: -2px;;
+}
+.hi h2{
+    margin-top: -2px;
+}
+.middle{
+    display: flex;
+    justify-content: space-around;
+    height: 22rem;
+}
+.middle1{
+    flex: 1;
+    margin-left: 5rem;
+    margin-right: 2rem;
+}
+.middle2{
+    flex:1;
+    margin-right: 2rem;
+}
+.middle3{
+    flex:1;
+    margin-right: 4rem;
+}
+.middle1 img{
+    height:22rem;
+    width: 21rem;
+}
+.middle2 img{
+    height: 24.22em;
+    width: 21rem;
+    margin-top: -36px;
+}
+.middle3 img{
+    height: 22rem;
+    width: 21rem;
+    margin-top: -36px\;
+}
+.middle h1{
+    margin-top: -2px;
+    color: aliceblue;
+    text-align: center;
+    background-color:#212237;
+    width: 89%;
+}
+.smiddle{
+    background-color:black;
+    height: 12rem;
+    width:85rem;
+    margin-top: 3rem;
+    position: relative;
+}
+.smiddle h1{
+    color: azure;
+    text-align: center;
+    font-size: 3rem;
+}
+.smiddle button{
+    background-color: aliceblue;
+    position:absolute;
+    left: 37rem;
+    height: 3rem;
+    width: 8rem;
+    border-radius: 12rem;
+
+}
+.sfooter{
+    background-color:black;
+    height: 30rem;
+    width: 100%;
+    margin-top: -26px;
+    color: aliceblue;
+}
+.footer{
+    background-color:black;
+    margin-left: 6rem;
+    margin-right: 6rem;
+    display: flex;
+    justify-content:space-between /*
+    justify-content: space-between;
+    justify-content: space-around;*/
+}
+.footer  li {
+height: 2rem;
+width: 12rem;
+}
+.footer a{
+    color: beige;
+}
+.footer ul{
+    list-style: none;
+}
+.footer a{
+    text-decoration: none;
+}
+.ff a{ 
+    margin-left: 1rem;;
+    text-decoration:none;
+    color: aliceblue;
+}
+.ff {
+    margin-left: 7rem;
+}
+.p{
+    margin-left: 8rem;
+    width:66rem;
+}
+.navA a{
+    text-decoration: none;
+    color:black;
+}
+.he{
+    background-color: aqua;
+    height: 31rem;
+    width:89%;
+    margin-top: 3rem;
+    margin-left: 5rem;
+    margin-right:  5rem;
+    position: relative;
+}
+.he img{
+    height: 38rem;
+    width: 100%;
+    
+}
+.he1{
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+    position:absolute;
+    top: 5rem;
+    left: -4rem;
+    font-size: 18px;
+}
+.he1 button{
+    border-color:blue;
+    background-color:whitesmoke;
+    align-items: center;
+    border-radius:17px;
+    height:2.5rem;
+    width:5rem;
+    
+}
